@@ -6,7 +6,7 @@ This project showcases front-end skills including **mobile-first design, respons
 ---
 
 ## 🚀 Live Demo
-👉 [View Project Here](PUT_YOUR_VERCEL_LINK_HERE)
+👉 [View Project Here](https://tailwind-landing-page-six-omega.vercel.app/)
 
 ---
 
